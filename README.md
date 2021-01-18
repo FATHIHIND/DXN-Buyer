@@ -1,7 +1,6 @@
 # DXN-Buyer
 DXN Buyer is used to link the buyer to the different DXN Morocco products
 
-DXN Star Diamond santé santé richesse et bonheur
+DXN Star Diamond health health wealth and happiness
 
-Depuis plus d’une décennie, DXN a touché la vie de nombreuses personnes. L’un de ses rôles dans la communauté a considérablement évolué, ce qui rend tout le monde plus facile à penser et agir d’une manière qui favorise le bien-être et le respect des uns et des autres. DXN a réussi à absorbé cette vision depuis sa création en 1993, en servant de leader et de leader du marché dans le monde des affaires dans le monde entier. Aujourd’hui, DXN est l’une des organisations de marketing de réseaux de plus en plus rapides avec une opération plus de 137 pays
-One World One Market One Family
+For over a decade, DXN has touched the lives of many people. One of her roles in the community has evolved dramatically, making it easier for everyone to think and act in ways that promote well-being and respect for one another. DXN has successfully absorbed this vision since its inception in 1993, serving as a leader and market leader in business around the world. Today, DXN is one of the fastest growing network marketing organizations with operation over 137 countries One World One Market One Family

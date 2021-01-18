@@ -6,6 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DXN Buyer-Products</title>
     <link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>   
+    <style>
+     body{
+   background-color:rgb(233, 200, 116);
+    }
+  </style>
 </head>
 <body>
     <!-- Load Facebook SDK for JavaScript -->

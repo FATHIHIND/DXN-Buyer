@@ -2,8 +2,9 @@
   
         include_once("home.html");
 ?>
-      
-     <div id="fb-root"></div>
+
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
       <script>
         window.fbAsyncInit = function() {
           FB.init({

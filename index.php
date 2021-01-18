@@ -4,6 +4,9 @@
 ?>
 
 <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v9.0" nonce="iQsVFfIo">
+   </script>
       <div id="fb-root"></div>
       <script>
         window.fbAsyncInit = function() {

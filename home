@@ -39,8 +39,9 @@
     
     <div class="btn-group dropright">
     <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    <span class="caret"></span>
+    
     View Products DXN Buyer
+    <span class="caret"></span>
     </button>
     <div class="dropdown-menu">
     <a href="/products" class="btn btn-secondary">DXN Lingzhi Black Coffee</a>

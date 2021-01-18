@@ -1,9 +1,7 @@
 <?php 
   
         include_once("home");
-        include_once("products");
-        include_once("products-AR");
-        include_once("products-FR");
+     
 ?>
 
 <!-- Load Facebook SDK for JavaScript -->

@@ -16,6 +16,30 @@
     <link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>   
 </head>
 <body>
+<!-- Load Facebook SDK for JavaScript -->
+
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v9.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="103483135057769">
+      </div>
     <center> <a href="/products" class="btn btn-secondary">View Products DXN</a> </center>
  <iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tja6fq0n30" width="100%" height="780" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
 

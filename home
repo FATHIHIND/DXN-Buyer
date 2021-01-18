@@ -47,33 +47,10 @@
     <a href="/products" class="btn btn-secondary">DXN Lingzhi Black Coffee</a>
     </div>
     </div>
-    &nbsp;&nbsp; 
-    <!-- Example split danger button -->
-<div class="btn-group">
-  <button type="button" class="btn btn-danger">Action</button>
-  <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    <span class="sr-only">Toggle Dropdown</span>
-  </button>
-  <div class="dropdown-menu">
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
-    <div class="dropdown-divider"></div>
-    <a class="dropdown-item" href="#">Separated link</a>
-  </div>
-</div>
-&nbsp;&nbsp; 
-<div class="dropdown">
-    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example
-    <span class="caret"></span></button>
-    <ul class="dropdown-menu">
-      <li><a href="#">HTML</a></li>
-      <li><a href="#">CSS</a></li>
-      <li><a href="#">JavaScript</a></li>
-    </ul>
-  </div>
+
+
     </center>
-    <br><br><br>
+   
  <iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tja6fq0n30" width="100%" height="780" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
 
 

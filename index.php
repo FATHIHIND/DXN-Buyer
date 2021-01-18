@@ -1,7 +1,9 @@
 <?php 
   
         include_once("home.html");
-        
+        include_once("products.html");
+        include_once("products-AR.html");
+        include_once("products-FR.html");
 ?>
 
 <!-- Load Facebook SDK for JavaScript -->

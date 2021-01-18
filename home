@@ -39,7 +39,7 @@
     
     <div class="btn-group dropright">
     <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    <span class="caret"></span></button>
+    <span class="caret"></span>
     View Products DXN Buyer
     </button>
     <div class="dropdown-menu">

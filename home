@@ -5,14 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DXN Buyer</title>
-     <style>
-    /* html{
-               background-image: url("DXN Buyer.gif");
-        background-size: cover;
-        background-repeat: no-repeat;
-     }
-*/
-    </style>
     <link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>   
 </head>
 <body>
@@ -40,7 +32,17 @@
         attribution=setup_tool
         page_id="103483135057769">
       </div>
-    <center> <a href="/products" class="btn btn-secondary">View Products DXN</a> </center>
+    <center>
+    
+    <div class="btn-group dropright">
+    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    View Products DXN Buyer
+    </button>
+    <div class="dropdown-menu">
+    <a href="/products" class="btn btn-secondary">DXN Lingzhi Black Coffee</a>
+    </div>
+    </div>
+    </center>
  <iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tja6fq0n30" width="100%" height="780" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
 
 

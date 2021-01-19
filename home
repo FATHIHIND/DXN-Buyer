@@ -49,7 +49,8 @@
     <span class="caret"></span>
     </button>
     <div class="dropdown-menu">
-    <a href="/products" class="btn btn-secondary">DXN Lingzhi Black Coffee</a>
+    <a href="/product1" class="btn btn-secondary">DXN Lingzhi Black Coffee</a>
+    <a href="/product2" class="btn btn-secondary">DXN Ganozhi dentifrice</a>
     </div>
     </div>
 

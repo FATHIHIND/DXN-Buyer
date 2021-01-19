@@ -11,6 +11,9 @@
   <style>
      body{
    background-color:#FFFF;
+   #fsw-watermark {
+    display: none !important;
+}
     }
   </style>
 </head>

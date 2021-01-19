@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>DXN Buyer-Products</title>
+    <link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>   
+    <style>
+     body{
+   background-color:rgb(233, 200, 116);
+    }
+  </style>
+</head>
+<body>
+    <!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v9.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="103483135057769">
+      </div>
+      <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v9.0" nonce="fSy6Bu9t"></script>
+  <br>
+    <center> <a href="/home" class="btn btn-secondary">Home</a>&nbsp;&nbsp;<a href="/product2" class="btn btn-secondary">EN</a>&nbsp;&nbsp;<a href="/product2-AR" class="btn btn-secondary">AR</a> &nbsp;&nbsp;<a href="/product2-FR" class="btn btn-secondary">FR</a></center>
+    <center>
+    <div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=107504044655678&amp;id=103483135057769" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=107504044655678&amp;id=103483135057769" class="fb-xfbml-parse-ignore"><p>معجون اسنان Dxn Ganozhi (مجموعة من 4 x 40 g)
+معجون اسنان غانوزي ينظف اسنانك بشكل فعال ويمنحك نفس منعش ويترك طعما جديدا...</p>Publiée par <a href="https://www.facebook.com/DXN-Buyer-103483135057769/">DXN Buyer</a> sur&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=107504044655678&amp;id=103483135057769">Mardi 19 janvier 2021</a></blockquote></div>    
+    </center>
+    </body>
+</html>

@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DXN Buyer</title>
-   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 </head>
 <body>
@@ -28,33 +28,35 @@
         js = d.createElement(s); js.id = id;
         js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
+      }(document, 'script', 'facebook-jssdk'));
+      </script>
 
-      <!-- Your Chat Plugin code -->
+      <!-- Chat Plugin code -->
       <div class="fb-customerchat"
         attribution=setup_tool
         page_id="103483135057769">
       </div>
       <br>
-    <center>
+      <center>
     
-    <div class="btn-group dropright">
-    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    
-    View Products DXN Buyer
-    <span class="caret"></span>
-    </button>
-    <div class="dropdown-menu">
-    <a href="/product1" class="btn btn-secondary">DXN Lingzhi Black Coffee</a>
-    <a href="/product2" class="btn btn-secondary">DXN Ganozhi dentifrice</a>
-    <a href="/product3" class="btn btn-secondary">DXN Tea tree cream</a>
-    </div>
-    </div>
+          <div class="btn-group dropright">
+          <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+
+           View Products DXN Buyer
+           <span class="caret"></span>
+          </button>
+          <div class="dropdown-menu">
+          <a href="/product1" class="btn btn-secondary">DXN Lingzhi Black Coffee</a>
+          <a href="/product2" class="btn btn-secondary">DXN Ganozhi dentifrice</a>
+          <a href="/product3" class="btn btn-secondary">DXN Tea tree cream</a>
+          </div>
+          </div>
 
 
-    </center>
-   <br>
- <iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tja6fq0n30" width="100%" height="780" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
+       </center>
+       <br>
+       <!-- flipsnack Home page design  -->
+       <iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tja6fq0n30" width="100%" height="780" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
 
 
 </body>

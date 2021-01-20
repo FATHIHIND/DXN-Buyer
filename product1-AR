@@ -42,13 +42,21 @@
       
       <!-- Navigation Menu -->
       <center>
-      <a href="/home" class="btn btn-secondary">Home</a>
+      <a href="/home" class="btn btn-secondary">
+      Home
+      </a>
       &nbsp;&nbsp;
-      <a href="/product1" class="btn btn-secondary">EN</a>
+      <a href="/product1" class="btn btn-secondary">
+      EN
+      </a>
       &nbsp;&nbsp; 
-      <a href="/product1-AR" class="btn btn-secondary">AR</a>
+      <a href="/product1-AR" class="btn btn-secondary">
+      AR
+      </a>
       &nbsp;&nbsp;
-      <a href="/product1-FR" class="btn btn-secondary">FR</a>
+      <a href="/product1-FR" class="btn btn-secondary">
+      FR
+      </a>
 
       </center>
     

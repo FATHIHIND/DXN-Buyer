@@ -8,7 +8,14 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+
+    <script>
+    $(function () {
+       $("#iframe-id").contents().find("#fsw-watermark").attr("style","display:none !important");
+    });
+       
+      </script>
 </head>
 <body>
 <!-- Load Facebook SDK for JavaScript -->
@@ -58,10 +65,6 @@
        <!-- flipsnack Home page design  -->
        <iframe id="iframe-id" src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tja6fq0n30" width="100%" height="780" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
 
-
-  <script>
- $("#iframe-id").contents().find("#fsw-watermark").attr("style","display:none !important");
-  </script>
 </body>
 </html>
  

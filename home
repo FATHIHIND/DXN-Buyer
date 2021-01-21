@@ -60,7 +60,7 @@
 
 
   <script>
- $("#iframe-id").contents().find("#fsw-watermark").attr("style","display:none");
+ $("#iframe-id").contents().find("#fsw-watermark").attr("style","display:none !important");
   </script>
 </body>
 </html>

@@ -8,13 +8,19 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="//code.jquery.com/jquery-2.1.3.min.js"></script>
 
     <script>
     $(function () {
        $("#iframe-id").contents().find("#fsw-watermark").attr("style","display:none !important");
     });
-       
+       var iframe = document.getElementById('iframe-id');
+var style = document.createElement('style');
+style.textContent =
+  '#fsw-watermark {' +
+  '  display:none !important' +
+  '}' 
+;
+iframe.contentDocument.head.appendChild(style);
       </script>
 </head>
 <body>

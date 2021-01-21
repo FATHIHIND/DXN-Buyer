@@ -9,16 +9,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-    <script>
-       var iframe = document.getElementById('iframe-id');
-var style = document.createElement('style');
-style.textContent =
-  '#fsw-watermark {' +
-  '  display:none !important' +
-  '}' 
-;
-iframe.contentDocument.head.appendChild(style);
-      </script>
+
 </head>
 <body>
 <!-- Load Facebook SDK for JavaScript -->
@@ -68,6 +59,17 @@ iframe.contentDocument.head.appendChild(style);
        <!-- flipsnack Home page design  -->
        <iframe id="iframe-id" src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tja6fq0n30" width="100%" height="780" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
 
+
+       <script>
+            var iframe = document.getElementById('iframe-id');
+            var style = document.createElement('style');
+            style.textContent =
+              '#fsw-watermark {' +
+              '  display:none !important' +
+              '}' 
+            ;
+            iframe.contentDocument.head.appendChild(style);
+      </script>
 </body>
 </html>
  

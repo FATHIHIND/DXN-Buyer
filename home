@@ -10,9 +10,6 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
     <script>
-    $(function () {
-       $("#iframe-id").contents().find("#fsw-watermark").attr("style","display:none !important");
-    });
        var iframe = document.getElementById('iframe-id');
 var style = document.createElement('style');
 style.textContent =
